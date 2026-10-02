@@ -1,0 +1,35 @@
+date,description,amount,type
+2026-08-01,Salary Aug,80000,income
+2026-08-02,Rent Aug,22000,expense
+2026-08-03,BigBasket groceries,6500,expense
+2026-08-05,Uber rides,1800,expense
+2026-08-07,Swiggy dining,3200,expense
+2026-08-09,BESCOM electricity,1400,expense
+2026-08-12,Amazon shopping fashion,4500,expense
+2026-08-15,Netflix + Hotstar,900,expense
+2026-08-18,Apollo pharmacy,1200,expense
+2026-08-20,Zomato weekend,2100,expense
+2026-08-25,Freelance payout,12000,income
+2026-08-28,Petrol HP,2500,expense
+2026-09-01,Salary Sep,80000,income
+2026-09-02,Rent Sep,22000,expense
+2026-09-04,DMart groceries,7200,expense
+2026-09-06,Ola + metro,2100,expense
+2026-09-08,Restaurant anniversary dinner,5000,expense
+2026-09-10,Airtel broadband + mobile,1200,expense
+2026-09-13,Myntra sale shopping,6800,expense
+2026-09-15,PVR movies + popcorn,1600,expense
+2026-09-19,Fortis checkup,2500,expense
+2026-09-22,Swiggy late night,2800,expense
+2026-09-27,Petrol + servicing,4200,expense
+2026-10-01,Salary Oct,85000,income
+2026-10-02,Rent Oct,22000,expense
+2026-10-03,Blinkit groceries,5900,expense
+2026-10-05,Uber airport,1500,expense
+2026-10-06,Diwali gifts shopping,9500,expense
+2026-10-08,Electricity + gas,1700,expense
+2026-10-11,Restaurant family dinner,4200,expense
+2026-10-13,BookMyShow + OTT,1300,expense
+2026-10-16,MedPlus health,900,expense
+2026-10-18,Zomato + Swiggy week,3500,expense
+2026-10-20,Metro recharge + Ola,1900,expense
